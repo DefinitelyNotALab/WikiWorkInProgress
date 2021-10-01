@@ -30,4 +30,4 @@ Das Anbieten, Verkaufen und Kaufen von Produkten und Dienstleistungen gegen (mon
 <br/>
 
 ## 4. Informationsgehalt & Formatierung
-Wenn du Hilfe benötigst, achte bitte darauf allen genug Hintergrundwissen zur Verfügung zu stellen. Wenn du eine Hilfestellung gibst, Begründe diese zumindest mit ein paar Worten, statt nur einen Link zu Posten. Falls du eine Hilfestellung benötigst welche Informationen Hilfreich sind, findest du diese hier: [Vorlagen](template)
+Wenn du Hilfe benötigst, achte bitte darauf allen genug Hintergrundwissen zur Verfügung zu stellen. Wenn du eine Hilfestellung gibst, Begründe diese zumindest mit ein paar Worten, statt nur einen Link zu Posten. Falls du eine Hilfestellung benötigst welche Informationen Hilfreich sind, findest du diese hier: [Vorlagen](template.md)

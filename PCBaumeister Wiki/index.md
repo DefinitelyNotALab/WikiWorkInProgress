@@ -2,8 +2,9 @@
 
 ## Inhalte
 
-- [Regeln](regeln)
-- [Build Ideen](builds)
+- [Regeln](regeln.md)
+- [Build Ideen](builds.md)
+- [Vorlagen](template.md)
 
 ## Hilfegesuche
 Wenn ihr Probleme mit eurem PC habt und auf der suche nach Hilfe seit, bitte beachtet möglichst alle Relevanten Informationen zu erwähnen.\
