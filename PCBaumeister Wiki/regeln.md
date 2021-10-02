@@ -12,14 +12,13 @@ Dieses Subreddit ist dem Bauen von Computern gewidmet. Jeder Beitrag sollte zumi
 
 <br/>
 
-
 ## 2. Bleibt Respektvoll
 Das gezielte Beleidigen anderer Benutzer, sowie:
 - Persönliche Angriffe auf andere Benutzer.
 - Rassismus, Sexismus, Homo-/Transphobie, Misogynie o.Ä..
 - Das Verbreiten persönlicher Informationen anderer.
 - Das Nachahmen anderer.
-- „Trollen“, „Baiten“, und Anstiften anderer.
+- „Trollen“, „Baiten“und Anstiften anderer, sowie Aufrufe zum Handeln sind untersagt.
 - Aufrufe zum Handeln sind untersagt. Des Weiteren ist Reddits [Inhaltsrichtlinie](https://www.redditinc.com/policies/content-policy) zu befolgen.
 
 <br/>

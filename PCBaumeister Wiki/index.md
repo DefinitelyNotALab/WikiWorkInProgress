@@ -8,7 +8,7 @@
 
 ## Hilfegesuche
 Wenn ihr Probleme mit eurem PC habt und auf der suche nach Hilfe seit, bitte beachtet möglichst alle Relevanten Informationen zu erwähnen.\
-Generell ist es sinnvoll folgende Informationen beirezustellen wenn es um ein Hardware Problem geht
+Generell ist es sinnvoll folgende Informationen bereitzustellen wenn es um ein Hardware Problem geht
 
 - Verwendete Hardware
     - Hersteller.
