@@ -1,7 +1,7 @@
 #Vorlagen
 
 ## Hilfe zum planen eines PCs
-```
+
 > Was hast du vor mit dem PC? Welche Spiele möchtest du spielen, bzw welche Programme benutzen?
 
 * Diese Zeile durch deine Antwort ersetzen.
@@ -13,8 +13,8 @@
 > Was genau brauchst du alles? (Maus, Tastatur, Monitor, PC)
  
 * Diese Zeile durch deine Antwort ersetzen.
- 
- 
+
+
 > Hast du alte Komponenten, welche du wiederverwenden möchtest? (Festplatten, Laufwerk, GPU/CPU)
  
 * Diese Zeile durch deine Antwort ersetzen.
@@ -32,4 +32,3 @@
 * Diese Zeile durch deine Antwort ersetzen.
  
 > Extra Infos
-```
