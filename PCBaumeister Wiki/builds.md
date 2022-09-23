@@ -1,36 +1,73 @@
+# Aktuelle Marktlage
+Aufgrund der Aktuellen Marktlage werden für Builds ein Spielraum von 80€ Eingeräumt um Grafikkarten einplanen zu können. Die Preise für Grafikkarten schwanken einfach momentan zu sehr um Realistische Vorschläge für ein bestimmtes Preissegment zu machen, da manche karten bis zu 200€ Schwankungen aufweisen. Auch ist es aufgrund der aktuellen Lage im PC Markt unter umständen möglich das Pre-Build PCs günstiger sind als würdet ihr euch einen PC selber bauen. 
+
+Ebenfalls sollte man beachten das mit etwas Geduld und Suchen ein durchaus nennenswertes Upgrade an Grafikkarten stattfinden könnte, wenn ihr es schafft ein günstiges Angebot für die Grafikkarten zu finden. Dies bezüglich ist es durchaus empfehlenswert bei Unsicherheiten einen neuen Post mit Bezug auf das für euch interessante Build zu machen und die Community nach Feedback zu fragen.
+
 # Build vorschläge
 
-## Übersicht
-
-1. 700€ Einsteiger PC
-
 ## Builds
-Hier werden von der Gemeinschaft erstellte Builds vorschläge angeboten die in Regelmäßigen abständen aktualisiert werden. Diese Builds wurden von der Gemeinschaft erstellt und sollen einen guten Anhaltspunkt bieten für Einsteiger die nicht wissen wo sie überhaupt anfangen sollen.\
-Zu den jeweiligen Builds werdet ihr Vorschläge und Ideen finden sowie mögliche Upgrade Pläne die sich mit dem Entsprechenden Build eigenen würden. Die Builds werden über [PCPartpicker](de.pcpartpicker.com), eine website die günstige angebote für die jeweiligen Bauteile sucht und hilft einen günstigen PC zusammenzustellen.
-
-<br/>
-
-Aufgrund der Aktuellen Marktlage werden für Builds ein Spielraum von 80€ Eingeräumt um grafikkarten einplanen zu können. Die Preise für Grafikkarten schwanken einfach momentan zu sehr um Realistische vorschläge für ein bestimmtes Preissegment zu machen, da manche karten bis zu 200€ Schwankungen aufweisen.
-
-<br/>
+Hier werden von der Gemeinschaft erstellte Builds Vorschläge angeboten die in Regelmäßigen abständen aktualisiert werden. Diese Builds wurden von der Gemeinschaft erstellt und sollen einen guten Anhaltspunkt bieten für Einsteiger die nicht wissen wo sie überhaupt anfangen sollen.
+Zu den jeweiligen Builds werdet ihr Vorschläge und Ideen finden sowie mögliche Upgrade Pläne die sich mit dem Entsprechenden Build eigenen würden. Die Builds werden über [PCPartpicker](de.pcpartpicker.com), eine Website die günstige Angebote für die jeweiligen Bauteile sucht und hilft einen günstigen PC zusammenzustellen.
 
 ### Der 700€ Einsteiger PC
-[PCPartPicker Part List](https://de.pcpartpicker.com/list/v8C3ht)
+[PCPartPicker Part List](https://de.pcpartpicker.com/list/R8N6Yg)
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor](https://de.pcpartpicker.com/product/sYmmP6/amd-ryzen-5-5600g-39-ghz-6-core-processor-100-100000252box) | €270.99 @ Caseking 
+**CPU** | [AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor](https://de.pcpartpicker.com/product/sYmmP6/amd-ryzen-5-5600g-39-ghz-6-core-processor-100-100000252box) | €267.99 @ Mindfactory 
 **Motherboard** | [MSI B550-A PRO ATX AM4 Motherboard](https://de.pcpartpicker.com/product/7gxbt6/msi-b550-a-pro-atx-am4-motherboard-b550-a-pro) | €110.90 @ Amazon Deutschland 
-**Memory** | [G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://de.pcpartpicker.com/product/mcH8TW/gskill-aegis-16-gb-2-x-8-gb-ddr4-3200-memory-f4-3200c16d-16gis) | €66.40 @ Amazon Deutschland 
-**Storage** | [Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive](https://de.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) | €124.50 @ Amazon Deutschland 
-**Case** | [Fractal Design Core 2300 ATX Mid Tower Case](https://de.pcpartpicker.com/product/y7YWGX/fractal-design-case-fdcacore2300bl) | €44.75 @ Mindfactory 
-**Power Supply** | [be quiet! Pure Power 11 CM 500 W 80+ Gold Certified Semi-modular ATX Power Supply](https://de.pcpartpicker.com/product/qpvbt6/be-quiet-pure-power-11-cm-500-w-80-gold-certified-semi-modular-atx-power-supply-bn297) | €68.84 @ Amazon Deutschland 
+**Memory** | [G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://de.pcpartpicker.com/product/mcH8TW/gskill-aegis-16-gb-2-x-8-gb-ddr4-3200-memory-f4-3200c16d-16gis) | €64.36 @ Computeruniverse 
+**Storage** | [Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive](https://de.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) | €124.49 @ Amazon Deutschland 
+**Case** | [Fractal Design Core 2300 ATX Mid Tower Case](https://de.pcpartpicker.com/product/y7YWGX/fractal-design-case-fdcacore2300bl) | €51.53 @ Computeruniverse 
+**Power Supply** | [be quiet! Pure Power 11 CM 600 W 80+ Gold Certified Semi-modular ATX Power Supply](https://de.pcpartpicker.com/product/K3Jtt6/be-quiet-pure-power-11-cm-600-w-80-gold-certified-semi-modular-atx-power-supply-bn298) | €77.90 @ Amazon Deutschland 
  | *Prices include shipping, taxes, rebates, and discounts* |
- | **Total** | **€686.38**
- | Generated by [PCPartPicker](https://pcpartpicker.com) 2021-10-02 00:24 CEST+0200 |
- #### Anmerkungen:
- Dieser PC bietet eine APU, eine CPU mit integrierter Grafikkarte, dies scheint für dieses Preissegment aktuell die beste lösung zu sein und sollte für die meisten populären Titel reichen. Probleme sollte es hier nur bei Grafisch Intensiven AAA Spielen wie z.B.: Cyberpunk, beliebte spiele wie Minecraft, League of Legends und andere E-Sports titel sollten aber ohne Probleme laufen.
+ | **Total** | **€697.17**
+ | Generated by [PCPartPicker](https://pcpartpicker.com) 2021-10-06 16:04 CEST+0200 |
 
-<br/>
+#### Anmerkungen:
+Dieser PC bietet eine APU, eine CPU mit integrierter Grafikkarte, dies scheint für dieses Preissegment aktuell die beste lösung zu sein und sollte für die meisten populären Titel reichen. Probleme sollte es hier nur bei Grafisch Intensiven AAA Spielen wie z.B.: Cyberpunk, beliebte spiele wie Minecraft, League of Legends und andere E-Sports Titel sollten aber ohne Probleme laufen.
 
-Als mögliches Upgrade wäre hier z.B.: eine Nvidia RTX 3060. Bei plänen auf Größeren Grafikkarten zu upgraden in Zukunft, sollte ein Upgrade des Power Supply in betracht gezogen werden von 500W auf z.B.: 800W. Gerne aber könnt ihr einen Post machen mit bezug auf diesem Build und eure Pläne teilen und nach Ideen fragen, euer Budget entsprechend Optimal zu nutzen.
+Als mögliches Upgrade wäre hier z.B.: eine Nvidia RTX 3060ti. Bei Plänen auf Größeren Grafikkarten zu upgraden in Zukunft, sollte ein Upgrade des Power Supply in Betracht gezogen werden von 500W auf z.B.: 800W. Gerne aber könnt ihr einen Post machen mit Bezug auf diesem Build und eure Pläne teilen und nach Ideen fragen, euer Budget entsprechend Optimal zu nutzen.
+
+### Der 1200€ PC. Alle deine 1080p Bedürfnisse.
+[PCPartPicker Part List](https://de.pcpartpicker.com/list/9wbWNP)
+
+|Type|Item|Price|
+|:-|:-|:-|
+|**CPU**|[Intel Core i5-11400 2.6 GHz 6-Core Processor](https://de.pcpartpicker.com/product/92VmP6/intel-core-i5-11400-26-ghz-6-core-processor-bx8070811400)|€213.03 @ Mindfactory|
+|**CPU Cooler**|[be quiet! Pure Rock 2 CPU Cooler](https://de.pcpartpicker.com/product/BVXYcf/be-quiet-pure-rock-2-cpu-cooler-bk006)|€34.44 @ Aquatuning|
+|**Motherboard**|[Asus PRIME B560-PLUS ATX LGA1200 Motherboard](https://de.pcpartpicker.com/product/dLkWGX/asus-prime-b560-plus-atx-lga1200-motherboard-prime-b560-plus)|€122.90 @ Alternate|
+|**Memory**|[Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://de.pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|€67.90 @ Amazon Deutschland|
+|**Storage**|[Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive](https://de.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam)|€124.50 @ Amazon Deutschland|
+|**Video Card**|[Palit GeForce RTX 3060 12 GB StormX Video Card](https://de.pcpartpicker.com/product/MKZ9TW/palit-geforce-rtx-3060-12-gb-stormx-video-card-ne63060019k9-190af)|€566.55 @ Amazon Deutschland|
+|**Case**|[Cooler Master MB600L ODD ATX Mid Tower Case](https://de.pcpartpicker.com/product/fbvbt6/cooler-master-masterbox-mb600l-atx-mid-tower-case-mcb-b600l-ka5n-s02)|€53.39 @ Alza|
+|**Power Supply**|[Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://de.pcpartpicker.com/product/6Y66Mp/corsair-rm-2019-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020195-na)|€105.89 @ Caseking|
+|*Prices include shipping, taxes, rebates, and discounts*|||
+|**Total**|**€1288.60**||
+|Generated by [PCPartPicker](https://pcpartpicker.com) 2021-10-02 01:45 CEST+0200|||
+
+#### Anmerkungen:
+Dieser PC kommt mit eigentlich allem daher was man für 1080p Gaming braucht, ein ausreichend starkes Netzteil für ein GPU Upgrade ist ebenfalls vorhanden. Es ist wieder zu erwähnen, das der PC durchaus auch günstiger zu haben ist, wenn man etwas Geduld mitbringt und nach einem guten GPU Angebot sucht. Als eine gute GPU Alternative wurde auch die AMD Radeon 6600XT vorgeschlagen und sollte nicht außer acht gelassen werden. Es kann sein das der Intel i5 11400f günstiger ist, das kommt häufig vor das die F variante günstiger ist, war aber zum Zeitpunkt des Erstellens nicht der fall.
+Upgrades von hier aus dürften primär die Grafikkarte beinhalten, auch von 16GB auf 32GB Arbeitsspeicher dürfte für manche ein lohnenswerter weg sein.
+
+### Der 1700€ PC 
+
+[PCPartPicker Part List](https://de.pcpartpicker.com/list/bXRRQD)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor](https://de.pcpartpicker.com/product/g94BD3/amd-ryzen-5-5600x-37-ghz-6-core-processor-100-100000065box) | €297.99 @ Mindfactory 
+**CPU Cooler** | [be quiet! Dark Rock 4 CPU Cooler](https://de.pcpartpicker.com/product/FRYLrH/be-quiet-dark-rock-4-cpu-cooler-bk021) | €58.90 @ Amazon Deutschland 
+**Motherboard** | [MSI B550-A PRO ATX AM4 Motherboard](https://de.pcpartpicker.com/product/7gxbt6/msi-b550-a-pro-atx-am4-motherboard-b550-a-pro) | €110.94 @ Amazon Deutschland 
+**Memory** | [G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory](https://de.pcpartpicker.com/product/jBZzK8/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c16d-16gvkc) | €88.67 @ Computeruniverse 
+**Storage** | [Crucial P2 2 TB M.2-2280 NVME Solid State Drive](https://de.pcpartpicker.com/product/QggQzy/crucial-p2-2-tb-m2-2280-nvme-solid-state-drive-ct2000p2ssd8) | €161.00 @ Amazon Deutschland 
+**Video Card** | [MSI Radeon RX 6600 XT 8 GB GAMING X Video Card](https://de.pcpartpicker.com/product/KhvdnQ/msi-radeon-rx-6600-xt-8-gb-gaming-x-video-card-rx6600xt-gaming-x-8g) | €749.99 @ Amazon Deutschland 
+**Case** | [be quiet! Pure Base 500DX ATX Mid Tower Case](https://de.pcpartpicker.com/product/FCK2FT/be-quiet-pure-base-500dx-atx-mid-tower-case-bgw37) | €94.89 @ Mindfactory 
+**Power Supply** | [Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://de.pcpartpicker.com/product/6Y66Mp/corsair-rm-2019-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020195-na) | €105.89 @ Caseking 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | **Total** | **€1668.27**
+ | Generated by [PCPartPicker](https://pcpartpicker.com) 2021-10-18 17:25 CEST+0200 |
+
+
+#### Anmerkungen:
+Als gute alternative für die GPU wurde hier die 6700XT erwähnt, die preislich recht gut in das Budget integrierbar sein kann, sollte ein auch nur halbwegs gutes angebot dafür zu finden sein. Das Netzteil bietet genug luft nach oben auf ne größere Grafikkarte zu upgraden, selbst eine 3080 oder 6800XT sollte hier keine probleme bereiten. Der CPU Kühler ist ein absoluter Klassiker und das Gehäuse bietet genug platz um diesen zu Beherbergen.
