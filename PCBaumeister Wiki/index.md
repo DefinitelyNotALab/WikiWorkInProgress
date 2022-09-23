@@ -2,9 +2,9 @@
 
 ## Inhalte
 
-- [Regeln](regeln.md)
-- [Build Ideen](builds.md)
-- [Vorlagen](template.md)
+- [Regeln](https://www.reddit.com/r/PCBaumeister/wiki/index/regeln)
+- [Build Ideen](https://www.reddit.com/r/PCBaumeister/wiki/index/builds)
+- [Vorlagen](https://www.reddit.com/r/PCBaumeister/wiki/index/templates)
 
 ## Hilfegesuche
 Wenn ihr Probleme mit eurem PC habt und auf der suche nach Hilfe seit, bitte beachtet möglichst alle Relevanten Informationen zu erwähnen.\
@@ -14,7 +14,7 @@ Generell ist es sinnvoll folgende Informationen bereitzustellen wenn es um ein H
     - Hersteller.
     - Produkt Bezeichnug.
 - Wie äußert sich das Problem genau
-    - Anstelle von: "Bootet nicht mehr"\
+    - Anstelle von: "Bootet nicht mehr"
     "Wenn ich den PC starte, laufen die lüfter einmal Kurz an und gehen wieder aus.
     - Der Computer biept in einem Rythmus.
     - Falls euer Mainboard das Feature unterstützt, Debug LED informationen oder Post Codes.
@@ -24,5 +24,5 @@ Generell ist es sinnvoll folgende Informationen bereitzustellen wenn es um ein H
     - Treiber / Windows Neuinstallationen.
 
 ## Vorschläge, Anregungen und Wünsche
-Wenn ihr Vorschläge für das Wiki habt, schreibt diese bitte in einen Post mit dem Flair Diskussion.\
+Wenn ihr Vorschläge für das Wiki habt, schreibt diese bitte in einen Post mit dem Flair Diskussion.
 Dieses Wiki ist aktuell noch im Aufbau und soll in Zukunft neben Build Ideen für Anfänger und Fortgeschrittene auch Best Practices rund ums Thema PCs Bauen beinhalten und eine Ressource für alle Interessierten sein um das Abenteuer ins PCs Bauen zu starten.
